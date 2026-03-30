@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic tailoring workshop. A tailor obsessively adjusts a suit on a mannequin with clearly unnatural, asymmetrical proportions — one shoulder significantly higher, torso twisted, one sleeve longer than the other. The suit is tightly pinned and stitched to match these irregularities with excessive precision, visible pins and tension in the fabric. In the background, a normal man tries wearing a similar suit in front of a mirror. The suit appears identical in construction but fits poorly — pulling tightly in some areas, sagging in others, visibly uncomfortable and awkward. Warm lighting, realistic tools, fabric rolls, grounded environment. No text, no labels, no diagrams.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit perfectly tailored to a distorted mannequin fails on a real human, showing memorization of noise instead of generalizable structure."
+}
